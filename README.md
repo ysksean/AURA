@@ -1,7 +1,7 @@
 # AURA - AI 기반 매거진 레이아웃 생성기
 **Agentic Unified Rendering Architecture**
-기간 : 2025.12.03 ~ 2025.02.05
-팀 : 4명(팀장)
+- 기간 : 2025.12.03 ~ 2025.02.05
+- 팀 : 4명(팀장)
 
 <div align="center">
 
